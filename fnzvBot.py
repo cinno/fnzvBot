@@ -1,4 +1,11 @@
 # -*- coding: cp1252 -*-
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#Copyright (C) 2015  Yessou Sami
+
+
 import os,urllib2,base64
 import socket, sys, os,time ,random,platform ,ftplib
 import win32gui, win32ui, win32con, win32api #for screenshots
