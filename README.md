@@ -1,14 +1,29 @@
+
+                                      
+                                      
+                                      
+                                      
+
+                   ___________                                             ____         ______                
+                  |            |..          | `````````:' `.           .' |    ~.     .~      ~.  `````|````` 
+                  |______      |  ``..      |       ..'     `.       .'   |____.'_   |          |      |      
+                  |            |      ``..  |   ..''          `.   .'     |       ~. |          |      |      
+                  |            |          ``| .:,,,,,,,,,       `.'       |_______.'  `.______.'       |      
+                                                                                            
+
+
                                         HTTP Botnet coded in python
                                         
                                       TODO: 
-                                      -Use tor to contact control panel
-                                      -Encrypt comunications/data
-                                      -Notify\Control via email
+                                      -Use tor or an HTTP proxy to contact control panel
+                                      -Encrypt comunications/data exchanged
+                                      -Notify\Control via email service 
                                       -Bitcoin miner
                                       -Remote uninstall
                                       -P2P network,fileshare with host
-                                      -VPN,Proxy with bot connection
+                                      -VPN,Proxy with bot connection --> small proxy based connection 
                                       
+
 
 
                             This program is distributed in the hope that it will be useful,
